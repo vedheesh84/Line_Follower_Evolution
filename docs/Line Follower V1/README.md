@@ -13,7 +13,7 @@
 
 ## 1. Overview
 
-The **Line Follower Robot (Physical V1)** is the physical hardware proving ground for the first evolutionary generation within the Intelligent Systems Knowledge Ecosystem.
+The **Line Follower Robot (Physical V1)** is the physical hardware proving ground for the first evolutionary generation within the Intelligent Systems Engineering Workspace.
 
 While the accompanying [Line_Follower_Evolution_ws](file:///e:/Intelligent%20Systems%20Knowledge%20Ecosystem/02%20%E2%80%94%20Domains/ROS2/Line_Follower_Evolution_ws/README.md) models this robot in ROS 2 simulation, this physical build confronts the real-world constraints of discrete hardware: logic voltage switching, back-EMF, motor inrush current spikes, power supply brownouts, sensor thresholding, and bang-bang steering dynamics.
 
@@ -48,7 +48,7 @@ The purpose of V1 is to:
 
 ## 4. Structure & Organization
 
-This project folder strictly adheres to the **Intelligent Systems Knowledge Ecosystem Project Pattern**:
+This project folder strictly adheres to the **Intelligent Systems Engineering Workspace Project Pattern**:
 
 ```text
 E:\Line follower project\

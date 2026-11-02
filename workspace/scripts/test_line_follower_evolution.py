@@ -222,7 +222,7 @@ def test_v4_topological_graph_parsing():
     print_header("TEST 4: Generation 3 (V4) Symbolic Topological Graph Parsing")
     
     candidates = [
-        "/media/ved/DATA/Intelligent Systems Knowledge Ecosystem/02 — Domains/ROS2/Line_Follower_Evolution_ws/src/line_follower_v4_v5_topological/maps/warehouse_topology_graph.json",
+        "/media/ved/DATA/Intelligent Systems Engineering Workspace/03 — Projects & Experiments/
         "/media/ved/DATA/testing_sandbox/src/Line_Follower_Evolution_ws/line_follower_v4_v5_topological/maps/warehouse_topology_graph.json"
     ]
     graph_path = next((p for p in candidates if os.path.exists(p)), None)
@@ -409,7 +409,7 @@ def test_master_evolution_selector():
     
     import importlib.util
     candidates = [
-        "/media/ved/DATA/Intelligent Systems Knowledge Ecosystem/02 — Domains/ROS2/Line_Follower_Evolution_ws/src/line_follower_evolution_bringup/launch/master_evolution_selector.launch.py",
+        "/media/ved/DATA/Intelligent Systems Engineering Workspace/03 — Projects & Experiments/
         "/media/ved/DATA/testing_sandbox/src/Line_Follower_Evolution_ws/line_follower_evolution_bringup/launch/master_evolution_selector.launch.py"
     ]
     launch_path = next((p for p in candidates if os.path.exists(p)), None)

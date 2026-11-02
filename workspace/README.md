@@ -78,7 +78,7 @@ python3 scripts/test_line_follower_evolution.py
 
 ### Build Workspace
 ```bash
-cd "02 — Domains/ROS2/Line_Follower_Evolution_ws"
+cd "03 — Projects & Experiments/
 colcon build --symlink-install
 source install/setup.bash
 ```

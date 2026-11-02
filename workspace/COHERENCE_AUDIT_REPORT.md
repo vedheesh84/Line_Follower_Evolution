@@ -10,7 +10,7 @@
 
 ## 1. Architectural & Pedagogical Continuity Overview
 
-The `07_Line_Follower_Evolution_Series` represents the core pedagogical anchor of the Intelligent Systems Knowledge Ecosystem. It addresses the fundamental flaw in modern robotics education: the "fantasy jump" where students are thrust into complex SLAM and Nav2 navigation stacks without ever mastering the underlying physical and control dynamics of robotic hardware.
+The `07_Line_Follower_Evolution_Series` represents the core pedagogical anchor of the Intelligent Systems Engineering Workspace. It addresses the fundamental flaw in modern robotics education: the "fantasy jump" where students are thrust into complex SLAM and Nav2 navigation stacks without ever mastering the underlying physical and control dynamics of robotic hardware.
 
 The series is rigorously structured across **4 evolutionary generations** and **8 sequential articles**, ensuring that every algorithm, equation, data structure, and ROS 2 communication interface is systematically grounded in prior concepts before being deployed:
 

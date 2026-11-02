@@ -4,17 +4,17 @@
 **Scope:** `03 — Projects & Experiments/Active/Line Follower Robot`  
 **Physical Working Directory:** [`Line Follower V1/`](<Line Follower V1/README.md>)  
 **Status:** Active (Awaiting SMPS Power Supply)  
-**Primary Domain:** [ROS2](<../../../02 — Domains/ROS2/README.md>) / Robotics  
-**Simulation Counterpart:** [Line_Follower_Evolution_ws](<../../../02 — Domains/ROS2/Line_Follower_Evolution_ws/README.md>) ([GitHub](https://github.com/vedheesh84/ros2-knowledge-ecosystem/tree/main/Line_Follower_Evolution_ws))  
-**Theoretical Reference:** [Article LFE-02: V1 Reactive Physics & Real-World Instability](<../../../02 — Domains/ROS2/ROS2 Articles/07_Line_Follower_Evolution_Series/article_lfe_02_v1_reactive_physics_and_instability.md>)  
+**Primary Domain:** [ROS2](<../../../03 — Projects & Experiments/>) / Robotics  
+**Simulation Counterpart:** [Line_Follower_Evolution_ws](<../../../03 — Projects & Experiments/>) ([GitHub](https://github.com/vedheesh84/ros2-knowledge-ecosystem/tree/main/Line_Follower_Evolution_ws))  
+**Theoretical Reference:** [Article LFE-02: V1 Reactive Physics & Real-World Instability](<../../../03 — Projects & Experiments/ Articles/07_Line_Follower_Evolution_Series/article_lfe_02_v1_reactive_physics_and_instability.md>)  
 
 ---
 
 ## 1. Overview
 
-The **Line Follower Robot (Physical V1)** is the physical hardware proving ground for Generation 1 of the robotic evolution roadmap within the Intelligent Systems Knowledge Ecosystem.
+The **Line Follower Robot (Physical V1)** is the physical hardware proving ground for Generation 1 of the robotic evolution roadmap within the Intelligent Systems Engineering Workspace.
 
-While [Line_Follower_Evolution_ws](<../../../02 — Domains/ROS2/Line_Follower_Evolution_ws/README.md>) explores this generation algorithmically in ROS 2 simulation, this physical build confronts the real-world constraints of discrete hardware: logic voltage switching, back-EMF, motor inrush current spikes, power supply brownouts, sensor thresholding, and bang-bang steering dynamics.
+While [Line_Follower_Evolution_ws](<../../../03 — Projects & Experiments/>) explores this generation algorithmically in ROS 2 simulation, this physical build confronts the real-world constraints of discrete hardware: logic voltage switching, back-EMF, motor inrush current spikes, power supply brownouts, sensor thresholding, and bang-bang steering dynamics.
 
 ---
 
